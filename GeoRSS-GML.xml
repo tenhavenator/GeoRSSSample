@@ -20,8 +20,8 @@
       <summary>We just had a big one.</summary>
 
       <georss:where>
-         <gml:Point srsName="urn:ogc:def:crs:EPSG:6.6:26986">
-           <gml:pos>7198274.40324866 8628854.49615966</gml:pos>
+         <gml:Point>
+            <gml:pos>45.94 -74.377</gml:pos>
          </gml:Point>
       </georss:where>
    </entry>
